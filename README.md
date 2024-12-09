@@ -1,3 +1,17 @@
+# Car Dealer App
+
+## About the Project
+
+The **Car Dealer App** lets users choose a car make (brand) and model year, and then see a list of available car models. The data comes from the National Highway Traffic Safety Administration (NHTSA) API.
+
+This app is built with **Next.js** and **React**.
+
+## Features
+
+- Select a car make (brand).
+- Select a model year for the car.
+- View the list of car models available for that make and year.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
